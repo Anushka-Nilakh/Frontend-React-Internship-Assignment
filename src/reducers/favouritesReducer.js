@@ -45,3 +45,4 @@ export function favouritesReducer(state, action) {
 }
 
 export default favouritesReducer;
+
